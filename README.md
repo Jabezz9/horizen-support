@@ -28,7 +28,7 @@ You can analyze how you've spent your time across different categories, over any
 
 ## 📮 Contact & Feedback
 
-For bug reports, feedback, or feature requests, feel free to open an [issue](https://github.com/Jabezx9/horizen-support/issues) on this page.
+For bug reports, feedback, or feature requests, feel free to open an [issue](https://github.com/Jabezz9/horizen-support/issues) on this page.
 
 ---
 
