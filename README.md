@@ -24,11 +24,24 @@ Yes. You can customize both **category names** and **colors** to match your pers
 ### How does the time analysis feature work?
 You can analyze how you've spent your time across different categories, over any date range. It's perfect for reflection, optimization, or reporting.
 
+### How do I report a bug or request a feature?
+You have three options:
+- Open an issue on this repository
+- Email **jhwellsite@outlook.com**
+- Use the **“Report a bug”** button inside the app
+
+When reporting a bug, please include:
+- what you expected to happen
+- what actually happened
+- your macOS version
+- your app version
+- a screenshot if relevant
+
 ---
 
 ## 📮 Contact & Feedback
 
-For bug reports, feedback, or feature requests, feel free to open an [issue](https://github.com/Jabezz9/horizen-support/issues) on this page.
+For bug reports, feedback, or feature requests, feel free to open an [issue](https://github.com/Jabezz9/horizen-support/issues) on this page or contact us directly at jhwellsite@outlook.com.
 
 ---
 
